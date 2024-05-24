@@ -1,0 +1,13 @@
+[
+    { "id": 1, "name": "Məhsul 1", "price": 16, "quantity": 100 },
+    { "id": 2, "name": "Məhsul 2", "price": 21, "quantity": 150 },
+    { "id": 3, "name": "Məhsul 3", "price": 38, "quantity": 200 },
+    { "id": 4, "name": "Məhsul 4", "price": 44, "quantity": 250 },
+    { "id": 5, "name": "Məhsul 5", "price": 51, "quantity": 300 },
+    { "id": 6, "name": "Məhsul 6", "price": 63, "quantity": 350 },
+    { "id": 7, "name": "Məhsul 7", "price": 72, "quantity": 400 },
+    { "id": 8, "name": "Məhsul 8", "price": 87, "quantity": 450 },
+    { "id": 9, "name": "Məhsul 9", "price": 95, "quantity": 500 },
+    { "id": 10, "name":"Məhsul 10", "price": 100, "quantity": 550 }
+  ]
+  
